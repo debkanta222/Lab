@@ -5,9 +5,9 @@ class Operators{
     public static void main(String[] args) {
     System.out.println("the two numbers are:");
         int a,b,c;
-        a=125;
-        b=24;
-        System.out.println(a+" "+b);
+        a=125;//1st number given as input
+        b=24;//2nd number given as input
+        System.out.println(a+" "+b);//printing the given number
         System.out.println("the result  of multiplication is:");
         c=a*b;//logic for multiplication
         System.out.println(c);
