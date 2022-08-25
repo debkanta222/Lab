@@ -1,3 +1,4 @@
+//Write a java program to check a number is prime or not.
 package Activity;
 import java.util.*;
 public class ChckPrime {
