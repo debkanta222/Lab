@@ -1,3 +1,4 @@
+//Write a java program to find factorial of any number.
 package Activity;
 import java.util.Scanner;
 public class FactorialCheck {
