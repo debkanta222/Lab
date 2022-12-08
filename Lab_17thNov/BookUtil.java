@@ -181,7 +181,6 @@ import java.util.Scanner;
         String b = s.nextLine();									//taking input for price
         System.out.println("\nSearched by author");
         obj.searchByAuthor("Author "+ b );									//searching book by author name
-	obj.setAuthor("Author " +b);
         System.out.println("\nPrinting all books:");
         obj.displayAll(); 										//displaying all books with details
 
